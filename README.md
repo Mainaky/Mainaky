@@ -1,169 +1,119 @@
-<!-- ===================================================== MAINAK ROY — GITHUB PROFILE README ====================================================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56B0&height=120&section=header&text=&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56B0&height=150&section=header&text=Mainak%20Roy&fontSize=50&animation=fadeIn&fontAlignY=35"/>
   
-  <!-- Video-like typing animation (one letter at a time) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3200&pause=600&color=1A56B0&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Mainak+Roy+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Agentic+AI;Medical+Imaging+%7C+MLOps+%7C+Desktop+Tools;Building+systems+that+think." alt="Typing SVG"/>
-  
-  <p>
-    <img src="https://img.shields.io/badge/B.Tech%20CSE%20(Data%20Science)-NIIT%20University-1A56B0?style=flat-square&labelColor=0C447C"/> &nbsp;
-    <img src="https://img.shields.io/badge/CGPA%3A%209.17-Excellent-22C55E?style=flat-square&labelColor=0C447C"/> &nbsp;
-    <img src="https://img.shields.io/badge/2023–2027-Neemrana%2C%20Rajasthan-185FA5?style=flat-square&labelColor=0C447C"/> &nbsp;
-    <img src="https://img.shields.io/badge/Kolkata-West%20Bengal%2C%20India-378ADD?style=flat-square&labelColor=0C447C"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1A56B0&center=true&vCenter=true&width=800&lines=B.Tech+Data+Science+@+NIIT+University;Specializing+in+Agentic+AI+%26+Deep+Learning;Building+Scalable+Backend+Systems;Mentored+20%2B+Students+in+DSA+%26+ML" alt="Typing SVG"/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/CGPA-9.17-1A56B0?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JEE%20Mains-96.2%20Percentile-0C447C?style=for-the-badge"/>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/mainak-roy-7415b2258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-    <a href="https://mainak-portfolio-dvn2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> &nbsp;
-    <a href="mailto:mainak.roy23@st.niituniversity.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Mainaky&style=for-the-badge&color=1A56B0&label=PROFILE+VIEWS"/>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mainak-roy-7415b2258/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://mainak-portfolio-dvn2.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="mailto:mainak.roy23@st.niituniversity.in">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
   </p>
 </div>
 
-🧠 About Me
-- 🎓 **B.Tech in Data Science @ NIIT University** (CGPA: 9.17)
-- 📐 **Strong in Data Structures, Algorithms, and OOP**
-- ⚙️ **Build scalable backend systems & real-time applications**
-- 🤖 **Experienced in Machine Learning, RAG, and AI systems**
-- ☁️ **Skilled in AWS, Docker, CI/CD pipelines**
-- 👨‍🏫 **Mentored 20+ students in DSA, Python & ML**
-- 📍 Based in Kolkata, West Bengal, India 🇮🇳
-- 🤖 Building production-ready ML pipelines, Agentic AI & Medical Imaging models
-- 📄 Research paper accepted at **ICICV 2026** — Maze Solving Algorithms
-- 🛸 ISRO Bharatiya Antariksh Hackathon 2025 (Certificate of Acknowledgement)
-- 🧬 Experienced in LangChain, LangGraph, RAG & Multi-Agent Orchestration
-- 🌱 Currently deepening expertise in Medical AI & LangGraph
-- 💼 Open to **Internships, Research Collaborations & Open Source**
+---
 
-🛠️ Tech Stack
-**💬 Languages**  
-<img src="https://skillicons.dev/icons?i=python,sql,javascript,c,csharp,r&perline=8" />
+## 🧠 About Me
 
-**🤖 ML & AI**  
-<img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,tensorflow,opencv,matplotlib,seaborn&perline=8" />
-
-**🧬 Generative & Agentic AI**  
-<img src="https://skillicons.dev/icons?i=langchain,fastapi,streamlit&perline=6" />
-
-**🗄️ Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,snowflake&perline=5" />
-
-**⚙️ MLOps & DevOps**  
-<img src="https://skillicons.dev/icons?i=docker,jenkins,github,mlflow&perline=6" />
-
-**☁️ Cloud & Big Data**  
-<img src="https://skillicons.dev/icons?i=aws&perline=4" />
-
-**📊 Visualization & App Dev**  
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,dotnet&perline=5" />
-
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 NeuroSeg — Brain Tumour Detection**  
-**[GitHub](https://github.com/Mainaky/Brain-Tumour-Detection)**  
-Stack: TensorFlow • U-Net • VGG19 • Grad-CAM • Docker • Jenkins
-
-- U-Net CNN for MRI segmentation → **97.2% accuracy**
-- VGG19 Transfer Learning → **99.1% classification accuracy**
-- Outperforms ANN (82.4%) and Standard CNN (94.8%)
-- Grad-CAM heatmaps for clinical explainability
-- Full CI/CD: GitHub → Jenkins → Docker → DockerHub
-
-</td>
-<td width="50%" valign="top">
-
-**📍 ZonePulse — Ride Demand Prediction**  
-**[GitHub](https://github.com/Mainaky/Ride_Demand_Project)**  
-Stack: Python • XGBoost • Snowflake • Streamlit • SQL
-
-- Processes **4.7M+ trip records** via Snowflake cloud DW
-- XGBoost + Random Forest → **78% variance explained**
-- Geospatial demand heatmaps with Streamlit dashboards
-- Identified critical 5 PM peak demand windows
-- Supports surge pricing & driver allocation strategies
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏥 MedMes / CareFlow — Healthcare AI**  
-**[GitHub](https://github.com/Mainaky/Multi-Agent-Healthcare-AI-System)**  
-Stack: LangChain • Google Gemini 1.5 Flash • FastAPI • RAG
-
-- 4-agent system: Navigator, Coordinator, Quality Analyst, AI Nurse
-- RAG pipeline grounded on 15 clinical guidelines (ADA, AHA, KDIGO)
-- FHIR-compatible synthetic patient data
-- Real-time evaluation: routing confidence + latency tracking
-- Aligned with production MLOps safety standards
-
-</td>
-<td width="50%" valign="top">
-
-**🖥️ SwiftDesk — Windows App Launcher**  
-**[GitHub](https://github.com/Mainaky/SwiftDesk)**  
-Stack: C# • WPF • .NET 8 • Win32 API
-
-- macOS Spotlight-style launcher for Windows
-- Global Alt+Space hotkey via Win32 P/Invoke
-- Async multi-provider search with CancellationToken
-- Start Menu indexing + file search + math eval + clipboard
-- DPI-aware multi-monitor support
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🛸 ISRO Air Quality AI — Hackathon 2025**  
-**[GitHub](https://github.com/Mainaky/ISRO-Bharatiya-Antariksh-Hackathon)**  
-Stack: Python • Machine Learning • Forecasting
-
-- AI-based air pollution monitoring & forecasting system
-- Built for ISRO Bharatiya Antariksh Hackathon 2025
-- Received **ISRO Certificate of Acknowledgement**
-
-</td>
-<td width="50%" valign="top">
-
-**🔬 Maze Solver — ICICV 2026 Research**  
-**[GitHub](https://github.com/Mainaky/-Maze-Solving-Algorithms-in-Known-and-Unknown-Environments-)**  
-Stack: Python • Algorithms • AI Search
-
-- Comparative study: maze-solving in known vs unknown environments
-- Accepted at **ICICV 2026** — International Conference on Innovative Computing & Communications
-- BFS, DFS, A*, Q-Learning analysis
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Academic:</b> Pursuing B.Tech in CSE (Data Science) @ <b>NIIT University</b> (2023–2027).</li>
+        <li>💻 <b>Strengths:</b> Advanced Data Structures, Algorithms, and Object-Oriented Programming (OOP).</li>
+        <li>🤖 <b>AI/ML Focus:</b> Deeply engaged in <b>Agentic AI</b>, RAG frameworks, and Multi-Agent Orchestration.</li>
+        <li>⚙️ <b>Infrastructure:</b> Architecting end-to-end pipelines using <b>AWS, Docker, and CI/CD</b>.</li>
+        <li>🏫 <b>Leadership:</b> Club Coordinator at <b>Ramanujan Mathematics Club (RMC)</b>.</li>
+        <li>✍️ <b>Interests:</b> Passionate about Bengali literature and explaining complex Neural Networks through pure Mathematics.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainaky&layout=compact&hide_border=true&title_color=1A56B0&text_color=444444&bg_color=ffffff" alt="Top Langs" />
+      </div>
+    </td>
+  </tr>
 </table>
 
-📊 GitHub Stats
+---
+
+## 🛠️ Technical Arsenal
+
+### 🤖 Intelligence & Data
+![](https://img.shields.io/badge/Machine_Learning-1A56B0?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning-0C447C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/LangChain/Graph-378ADD?style=for-the-badge&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### ⚙️ DevOps & Cloud
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![](https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Research & Projects
+
+### 📄 Research Publication: Maze Solving Algorithms (ICICV 2026)
+* **Title:** *A Comparative Experimental Study of Maze Solving Algorithms in Known and Unknown Environments*
+* **Scope:** Analyzed BFS, DFS, A*, and Q-Learning efficiency.
+* **Status:** Published/Accepted at International Conference on Innovative Computing & Communications.
+
+### 🧠 NeuroSeg — Brain Tumour Detection (Accuracy: 99.1%)
+> **Stack:** TensorFlow, U-Net, VGG19, Grad-CAM, Docker, Jenkins
+* **Innovation:** Combined U-Net for precise MRI segmentation and VGG19 for state-of-the-art classification.
+* **Explainability:** Integrated **Grad-CAM heatmaps** for clinical trust and visual evidence.
+* **Deployment:** Fully containerized CI/CD pipeline from GitHub to DockerHub.
+
+### 🏥 CareFlow — Healthcare Agentic AI
+> **Stack:** LangChain, Google Gemini 1.5 Flash, FastAPI, RAG
+* **Architecture:** A **4-agent system** (Navigator, Coordinator, QA, AI Nurse) for patient triage.
+* **Data Integrity:** Grounded on 15+ clinical guidelines (ADA, AHA) using a high-fidelity RAG pipeline.
+
+### 🛸 ZonePulse — Real-time Ride Demand
+> **Stack:** Python, XGBoost, Snowflake, Streamlit
+* **Big Data:** Processed **4.7M+ records** via Snowflake cloud data warehousing.
+* **Insight:** Achieved 78% variance explanation, identifying critical 5 PM peak demand windows for surge optimization.
+
+---
+
+## 🏆 Achievements & Milestones
+
+| Year | Achievement |
+| :--- | :--- |
+| **2026** | **Published Research** - ICICV 2026 Maze Solving Algorithms Study |
+| **2025** | **Goldman Sachs** - Selected for Internship (Bangalore) |
+| **2025** | **ISRO Hackathon** - AI-based Air Pollution Monitoring (Certificate of Acknowledgement) |
+| **2025** | **Coordinator** - Ramanujan Mathematics Club (RMC) |
+
+---
+
+## 📊 Performance Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mainaky&show_icons=true&hide_border=true&title_color=1A56B0&icon_color=1A56B0&text_color=444444&bg_color=ffffff&count_private=true" height="170"/> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainaky&layout=compact&hide_border=true&title_color=1A56B0&text_color=444444&bg_color=ffffff" height="170"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Mainaky&hide_border=true&ring=1A56B0&fire=D14836&currStreakLabel=1A56B0&sideLabels=444444&dates=888888&background=ffffff"/>
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mainaky&show_icons=true&hide_border=true&title_color=1A56B0&icon_color=1A56B0&text_color=444444&bg_color=ffffff&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mainaky&hide_border=true&ring=1A56B0&fire=D14836&currStreakLabel=1A56B0&sideLabels=444444&dates=888888&background=ffffff" height="170"/>
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mainaky&theme=flat&no-frame=true&column=6&margin-w=8&margin-h=8"/>
 </div>
 
-🏆 Achievements & Certifications
-| Year     | Achievement |
-|----------|-------------|
-| 2026     | 📄 **ICICV 2026** Research Paper Accepted — A Comparative Experimental Study of Maze Solving Algorithms in Known and Unknown Environments |
-| 2025     | 🛸 **ISRO Bharatiya Antariksh Hackathon** — AI Air Pollution Monitoring & Forecasting — Certificate of Acknowledgement |
-| 2025     | 🎓 **LetsUpgrade Certification** — Build RAG Chatbot with Python (May 2025) |
-| 2025–26  | 🧮 **Club Coordinator** — Ramanujan Mathematics Club, NIIT University |
-
-📚 Relevant Coursework  
-Predictive Modeling for Data Science · Numerical Methods for Data Science · Inferential Statistics · Big Data Concepts · Artificial Intelligence · Object Oriented Programming
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Open+to+Internships+%7C+Research+Collaborations+%7C+Open+Source;Let's+connect+and+build+something+remarkable." alt="Footer typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Open+for+Research+Collaboration;Building+the+Future+of+Medical+AI;Let's+connect." alt="Footer typing"/>
   <br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56B0&height=100&section=footer"/>
 </div>

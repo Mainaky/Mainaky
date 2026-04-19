@@ -7,11 +7,10 @@
  </div>
 
 🧠 About Me
-- 🎓 **B.Tech in Data Science @ NIIT University** 
-- 📐 **Strong in Data Structures, Algorithms, and OOP**
-- ⚙️ **Build scalable backend systems & real-time applications**
+- 🎓 **B.Tech in Data Science @ NIIT University**
 - 🤖 **Experienced in Machine Learning, RAG, and AI systems**
 - ☁️ **Skilled in AWS, Docker, CI/CD pipelines**
+- 🤖 **Build RAG Chatbot with Python, LetsUpgrade Certification**
 - 👨‍🏫 **Filo Tutor** specializing in Mathematics — strong foundation in Calculus, Linear Algebra & Coordinate Geometry (JEE Mains level, Class 10 & 10+2)
 - 📍 Based in Kolkata, West Bengal, India 🇮🇳
 - 🤖 Building production-ready ML pipelines, Agentic AI & Medical Imaging models

@@ -1,18 +1,13 @@
 <!-- =====================================================
      MAINAK ROY — GITHUB PROFILE README
-     Just copy everything below and paste into your
-     github.com/Mainaky/Mainaky/README.md file
 ====================================================== -->
 
 <div align="center">
 
-<!-- WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56B0&height=120&section=header&text=&animation=fadeIn"/>
 
-<!-- ANIMATED TYPING NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=1A56B0&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Mainak+Roy+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Agentic+AI;Medical+Imaging+%7C+MLOps+%7C+Desktop+Tools;Building+systems+that+think." alt="Typing SVG"/>
 
-<!-- SUBTITLE -->
 <p>
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20(Data%20Science)-NIIT%20University-1A56B0?style=flat-square&labelColor=0C447C"/>
   &nbsp;
@@ -21,7 +16,6 @@
   <img src="https://img.shields.io/badge/Kolkata-West%20Bengal%2C%20India-378ADD?style=flat-square&labelColor=0C447C"/>
 </p>
 
-<!-- SOCIAL LINKS -->
 <p>
   <a href="https://www.linkedin.com/in/mainak-roy-7415b2258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -48,9 +42,6 @@
 
 ## 🧠 About Me
 
-```python
-## 🧠 About Me
-
 - 🧑‍💻 **Mainak Roy** — B.Tech CSE (Data Science) @ **NIIT University**, Neemrana (2023–2027)
 - 📍 Based in **Kolkata, West Bengal, India** 🇮🇳
 - 🤖 Building **ML Pipelines, Agentic AI Systems & Medical Imaging Models**
@@ -64,7 +55,6 @@
 - 🌱 Currently deepening expertise in **LangGraph & Medical AI** 🏥
 - 💼 Open to **Internships, Research Collaborations & Open Source**
 - ⚡ Fun fact: I explain **neural networks** to math students for fun 😄
-```
 
 ---
 
@@ -263,7 +253,6 @@
 
 <br/>
 
-<!-- WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A56B0&height=100&section=footer"/>
 
 </div>

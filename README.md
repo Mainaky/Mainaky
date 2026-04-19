@@ -50,15 +50,17 @@
 
 ```python
 mainak = {
-    "name"        : "Mainak Roy",
-    "location"    : "Kolkata, West Bengal, India",
-    "education"   : "B.Tech CSE — Data Science @ NIIT University (2023–2027)",
-    "focus"       : ["ML Pipelines", "Agentic AI", "Medical Imaging", "MLOps", "Desktop Tools"],
-    "research"    : "ICICV 2026 Accepted Paper — Maze Solving Algorithms",
-    "hackathon"   : "ISRO Bharatiya Antariksh Hackathon 2025",
-    "certified"   : "Build RAG Chatbot with Python — LetsUpgrade (May 2025)",
-    "club"        : "Club Coordinator, Ramanujan Mathematics Club (2025–2026)",
-    "open_to"     : ["Internships", "Research Collaborations", "Open Source"],
+    "🧑‍💻 name"        : "Mainak Roy",
+    "📍 location"     : "Kolkata, West Bengal, India 🇮🇳",
+    "🎓 education"    : "B.Tech CSE — Data Science @ NIIT University (2023–2027) 🏫",
+    "🚀 focus"        : ["🤖 ML Pipelines", "🧬 Agentic AI", "🧠 Medical Imaging", "⚙️ MLOps", "🖥️ Desktop Tools", "🛜 Neural Networks"],
+    "📄 research"     : "ICICV 2026 Accepted Paper 📑 — Maze Solving Algorithms",
+    "🛸 hackathon"    : "ISRO Bharatiya Antariksh Hackathon 2025 🏆",
+    "📜 certified"    : "Build RAG Chatbot with Python — LetsUpgrade ✅ (May 2025)",
+    "🧮 club"         : "Club Coordinator, Ramanujan Mathematics Club 🔢 (2025–2026)",
+    "🌱 currently"    : "Deepening expertise in LangGraph & Medical AI 🏥",
+    "💼 open_to"      : ["🎯 Internships", "🔬 Research Collaborations", "🌐 Open Source"],
+    "⚡ fun_fact"     : "I explain neural networks to math students for fun 😄",
 }
 ```
 

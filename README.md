@@ -49,19 +49,21 @@
 ## 🧠 About Me
 
 ```python
-mainak = {
-    "🧑‍💻 name"        : "Mainak Roy",
-    "📍 location"     : "Kolkata, West Bengal, India 🇮🇳",
-    "🎓 education"    : "B.Tech CSE — Data Science @ NIIT University (2023–2027) 🏫",
-    "🚀 focus"        : ["🤖 ML Pipelines", "🧬 Agentic AI", "🧠 Medical Imaging", "⚙️ MLOps", "🖥️ Desktop Tools", "🛜 Neural Networks"],
-    "📄 research"     : "ICICV 2026 Accepted Paper 📑 — Maze Solving Algorithms",
-    "🛸 hackathon"    : "ISRO Bharatiya Antariksh Hackathon 2025 🏆",
-    "📜 certified"    : "Build RAG Chatbot with Python — LetsUpgrade ✅ (May 2025)",
-    "🧮 club"         : "Club Coordinator, Ramanujan Mathematics Club 🔢 (2025–2026)",
-    "🌱 currently"    : "Deepening expertise in LangGraph & Medical AI 🏥",
-    "💼 open_to"      : ["🎯 Internships", "🔬 Research Collaborations", "🌐 Open Source"],
-    "⚡ fun_fact"     : "I explain neural networks to math students for fun 😄",
-}
+## 🧠 About Me
+
+- 🧑‍💻 **Mainak Roy** — B.Tech CSE (Data Science) @ **NIIT University**, Neemrana (2023–2027)
+- 📍 Based in **Kolkata, West Bengal, India** 🇮🇳
+- 🤖 Building **ML Pipelines, Agentic AI Systems & Medical Imaging Models**
+- 🧬 Experienced in **LangChain, RAG, LangGraph & Multi-Agent Orchestration**
+- ⚙️ Skilled in **MLOps — Docker, Jenkins, CI/CD, MLflow**
+- ☁️ Working with **AWS (EC2, S3, Lambda), Snowflake & HDFS**
+- 📄 Research paper accepted at **ICICV 2026** — Maze Solving Algorithms
+- 🛸 Participated in **ISRO Bharatiya Antariksh Hackathon 2025** — ISRO Certificate of Acknowledgement
+- 📜 Certified: **Build RAG Chatbot with Python** — LetsUpgrade ✅ (May 2025)
+- 🧮 **Club Coordinator** — Ramanujan Mathematics Club, NIIT University (2025–2026)
+- 🌱 Currently deepening expertise in **LangGraph & Medical AI** 🏥
+- 💼 Open to **Internships, Research Collaborations & Open Source**
+- ⚡ Fun fact: I explain **neural networks** to math students for fun 😄
 ```
 
 ---

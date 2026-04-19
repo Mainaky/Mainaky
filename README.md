@@ -21,7 +21,7 @@
 </div>
 
 🧠 About Me
-- 🎓 **B.Tech in Data Science @ NIIT University** (CGPA: 9.17)
+- 🎓 **B.Tech in Data Science @ NIIT University** 
 - 📐 **Strong in Data Structures, Algorithms, and OOP**
 - ⚙️ **Build scalable backend systems & real-time applications**
 - 🤖 **Experienced in Machine Learning, RAG, and AI systems**

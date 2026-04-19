@@ -21,12 +21,12 @@
 </div>
 
 🧠 About Me
-- 🎓 **B.Tech in Data Science @ NIIT University** 
+- 🎓 **B.Tech in Data Science @ NIIT University** (CGPA: 9.17)
 - 📐 **Strong in Data Structures, Algorithms, and OOP**
 - ⚙️ **Build scalable backend systems & real-time applications**
 - 🤖 **Experienced in Machine Learning, RAG, and AI systems**
 - ☁️ **Skilled in AWS, Docker, CI/CD pipelines**
-- 👨‍🏫 **Mentored 20+ students in DSA, Python & ML**
+- 👨‍🏫 **Fellow Tutor** specializing in Mathematics — strong foundation in Calculus, Linear Algebra & Coordinate Geometry (JEE Mains level, Class 10 & 10+2)
 - 📍 Based in Kolkata, West Bengal, India 🇮🇳
 - 🤖 Building production-ready ML pipelines, Agentic AI & Medical Imaging models
 - 📄 Research paper accepted at **ICICV 2026** — Maze Solving Algorithms
@@ -141,7 +141,7 @@ Stack: Python • Algorithms • AI Search
 </table>
 
 📈 Contribution Activity
-![Mainaky's Contribution Graph](https://github-readme-activity-graph.vercel.app/?username=Mainaky&theme=dracula&hide_border=true&area=true)
+![Mainaky's Contribution Graph](https://github-readme-activity-graph.vercel.app/?username=Mainaky&theme=dracula&hide_border=true&area=true&area_color=58a6ff)
 
 📊 GitHub Stats
 <div align="center">

@@ -28,7 +28,19 @@
 
 ## 🧠 About Me
 
-🎓 I'm **Mainak Roy**, a passionate **B.Tech CSE (Data Science)** student at **NIIT University, Neemrana** *(Batch 2023–2027)*, based in **Kolkata, West Bengal, India** 🇮🇳 &bull; I build intelligent systems at the intersection of **Machine Learning**, **Agentic AI**, and **Medical Imaging** — turning complex data into real-world impact &bull; My AI stack revolves around **LangChain**, **LangGraph**, **RAG pipelines**, and **Multi-Agent Orchestration**, enabling me to design systems that reason, retrieve, and act autonomously &bull; On the infrastructure side, I'm skilled in **MLOps** — working with **Docker**, **Jenkins**, **MLflow**, and **CI/CD pipelines** to ship production-grade models reliably &bull; I leverage **AWS (EC2, S3, Lambda)**, **Snowflake**, and **HDFS** to handle large-scale data and cloud deployments with confidence &bull; Beyond engineering, I serve as a **Live Tutor on Filo**, teaching **Mathematics** at the **JEE Mains level** — with a strong foundation in **Calculus**, **Linear Algebra**, and **Coordinate Geometry** &bull; My research paper on **Maze Solving Algorithms in Known & Unknown Environments** was accepted at **ICICV 2026** 📄, and I represented NIIT University at the **ISRO Bharatiya Antariksh Hackathon 2025** 🛸, earning a **Certificate of Acknowledgement** &bull; I proudly serve as **Club Coordinator** of the **Ramanujan Mathematics Club** at NIIT University *(2025–26)*, nurturing mathematical thinking across campus &bull; I'm currently deepening my expertise in **LangGraph** and **Medical AI** 🏥, always pushing the boundary between research and deployment &bull; 💼 I'm actively **open to Internships, Research Collaborations, and Open Source contributions** — let's build something remarkable together! ⚡ *Fun fact: I explain neural networks to math students for fun* 😄
+🎓 &nbsp; I'm **Mainak Roy** — B.Tech student in **CSE (Data Science)** at **NIIT University, Neemrana** *(Batch 2023–2027)*
+⚫ &nbsp; Based in **Kolkata, West Bengal, India** 🇮🇳 — building systems that sit at the edge of **ML**, **Agentic AI**, and **Medical Imaging**
+⚫ &nbsp; Experienced in designing **LangChain** · **LangGraph** · **RAG Pipelines** · **Multi-Agent Orchestration** systems from scratch
+⚫ &nbsp; Skilled in **MLOps** workflows — **Docker**, **Jenkins**, **MLflow**, and **CI/CD pipelines** for production-grade model deployment
+⚫ &nbsp; Working with **AWS (EC2, S3, Lambda)**, **Snowflake**, and **HDFS** for large-scale cloud and big data applications
+⚫ &nbsp; Active **Live Tutor on Filo** — teaching **Calculus**, **Linear Algebra**, and **Coordinate Geometry** at **JEE Mains** level
+⚫ &nbsp; Research paper on **Maze Solving Algorithms** accepted at **ICICV 2026** — International Conference on Innovative Computing & Communications 📄
+⚫ &nbsp; Participated in **ISRO Bharatiya Antariksh Hackathon 2025** 🛸 — received official **Certificate of Acknowledgement** from ISRO
+⚫ &nbsp; Serving as **Club Coordinator** of the **Ramanujan Mathematics Club**, NIIT University *(2025–26)*
+⚫ &nbsp; Certified in **Build RAG Chatbot with Python** — LetsUpgrade ✅ *(May 2025)*
+⚫ &nbsp; Currently deepening expertise in **LangGraph** and **Medical AI** 🏥
+⚫ &nbsp; Open to **Internships**, **Research Collaborations**, and **Open Source** contributions 💼
+⚫ &nbsp; Fun fact — I explain **neural networks** to math students just for fun 😄
 
 ---
 
